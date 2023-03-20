@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sinézio Octaviano Dadam Neto</title>
+</head>
+<body>
+    <nav>
+        <!--Adicionar Link de Navegação-->
+        <a href="https://www.unifebe.edu.br/site/calendario-academico/" target="_blank">    Conheça a Unifebe           // </a>
+        <a href="mailto:sinezio.dadam@unifebe.edu.br">    Envie um Email           //</a>
+        <a href="tel:+5548998007751">   Me Ligue</a>
+        <br></br>
+        <a href="#meu_h1">Levar ao Nome</a>
+        <br>
+        <a href="#meu_h2">Levar às Qualificações</a>
+        <br>
+        <a href="#meu_h3">Levar à Formação Acadêmica</a>
+        <br>
+        <a href="#meu_h4">Levar à Experiência Profissional</a>
+        <br>
+        <a href="#meu_h5">Levar à Informações Adicionais</a> 
+
+    </nav>
+    <br>
+    <hr>
+    <br>
+    <div>
+        <h1 id="meu_h1">Sinézio Octaviano Dadam Neto</h1>
+        <p title="p1">21 anos, solteiro.</p>
+        <p title="p2">Rua: Geral Arataca n°1371, Arataca</p>
+        <p title="p3">CEP: 88240-000</p>
+        <h2 id="meu_h2">Minhas Qualificações</h2>
+        <p title="p4">Conhecimento em photoshop, illustrator, after effects, premiere, pacote office.</p>
+        <p title="p5">Inglês intermediário.</p>
+        <h2 id="meu_h3">Formação Acadêmica:</h2>
+        <p title="p6">Sistemas de Informação - Unifebe - Graduando 2023/01 período.</p>
+        <p title="p7">Design Gráfico - Unifebe - Pausado 2022/02 períodos.</p>
+        <h2 id="meu_h4">Experiência Profissional:</h2>
+        <p title="p8"><b>Gabrie Calçados</b> - 2020/2021<br></br>-Expedição
+        <p title="p9"><b>Naza Studios</b> - 2021/atualmente<br><br>- Designer Gráfico <br><br>- Programador</p>
+        
+        <h2 id="meu_h5">Informações Adicionais:</h2>
+        <p title="p10">- Curso Aprendizagem: Desenvolvimento em Sistemas– Serviço Nacional de Aprendizagem Industrial (SENAI) – Janeiro de 2017 a dezembro  de 2017.</p>
+        <p title="p11">- Curso Aprendizagem: Redes e Manutenção de Microcomputadores – Serviço Nacional de Aprendizagem Industrial (SENAI) – Janeiro de 2018 a dezembro de 2018.</p>
+        <p title="p12">- Curso Aprendizagem: Assistente Administrativo – Serviço Nacional de Aprendizagem Industrial (SENAI) – Janeiro de 2019 a dezembro de 2019.</p>
+        <p title="p13">- Curso de Inglês Intermediário - Next Languages/2018 a 2019</p>
+    </div>
+
+    <footer>
+        <!-- Adicionar Informações-->
+    </footer>
+    
+</body>
+</html>
